@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,KACE,cAAe,CACf,sCAAyC,CAC1C,WAGC,WAAY,CACZ,aAAc","file":"main.ab24400b.chunk.css","sourcesContent":["// styles go here\nbody {\n  font-size: 18px;\n  font-family: Helvetica, Arial, sans-serif;\n}\n\n.container {\n  width: 500px;\n  margin: 0 auto;\n}\n"]}
